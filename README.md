@@ -4,7 +4,7 @@
 
 ## 资料
 
-- `activities.csv`：公众活动、场次、主题和预算事实。字段为 `activity_id, topic, slot_id, venue, capacity, fee, sponsor_seats, state`。
+- `activities.csv`：公众活动、场次、主题和预算事实。字段为 `activity_id, topic, slot_id, starts_at, ends_at, venue, capacity, fee, sponsor_seats, state`。
 - `reservations.csv`：预约和候补状态。字段为 `reservation_id, activity_id, party_id, seats, access_need, created_at, state, notice_deadline`。
 - `delivery_events.csv`：签到、取消、退款和反馈到达记录。字段为 `event_id, reservation_id, event_at, event_type, value, source`。
 - `staff_and_rooms.csv`：讲解人员与场地时段安排。字段为 `resource_id, resource_type, slot_id, capacity, skill_or_access, state`。
