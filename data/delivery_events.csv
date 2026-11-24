@@ -1,0 +1,4 @@
+event_id,reservation_id,event_at,event_type,value,source
+DE-1,R-1,2027-03-14T09:04,checkin,3,desk
+DE-2,R-2,2027-03-14T09:10,promoted,2,system
+DE-3,R-3,2027-03-19,refund,1,finance

@@ -1,0 +1,4 @@
+activity_id,topic,slot_id,venue,capacity,fee,sponsor_seats,state
+A-01,戏画讲座,SL-1,hall-a,70,30,8,scheduled
+A-02,水墨体验,SL-2,studio,24,80,2,scheduled
+A-03,戏剧导览,SL-3,gallery-a,35,0,5,proposed

@@ -1,0 +1,4 @@
+reservation_id,activity_id,party_id,seats,access_need,created_at,state,notice_deadline
+R-1,A-01,G-01,3,step-free,2027-03-01,confirmed,2027-03-12T09:00
+R-2,A-01,G-02,2,none,2027-03-02,waitlist,2027-03-12T09:00
+R-3,A-02,G-03,4,hearing-loop,2027-03-03,confirmed,2027-03-14T09:00

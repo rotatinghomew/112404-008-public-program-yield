@@ -1,0 +1,4 @@
+resource_id,resource_type,slot_id,capacity,skill_or_access,state
+STF-1,guide,SL-1,1,zh-CN,confirmed
+STF-2,guide,SL-1,1,en,hold
+RM-1,room,SL-2,24,step-free,confirmed
